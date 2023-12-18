@@ -1,7 +1,5 @@
 # Speech_To_Text_Deep_Learning_Model
 
-# Speech-to-Text Model Implementation
-
 ## Overview
 This repository contains the implementation of a speech-to-text model using a deep learning approach. The model is trained on the LJSpeech dataset and aims to convert spoken language into written text.
 
