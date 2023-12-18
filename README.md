@@ -13,17 +13,9 @@ This repository contains the implementation of a speech-to-text model using a de
 - [References](#references)
 
 ## Requirements
-- Python 3.x
-- TensorFlow (add specific versions if necessary)
+- Python 9 above
+- TensorFlow
 - NumPy
 - Jiwer
-- (any other dependencies)
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/speech-to-text.git
-   cd speech-to-text
 
-## Install dependencies:
-pip install -r requirements.txt
